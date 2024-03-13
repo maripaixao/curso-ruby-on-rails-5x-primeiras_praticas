@@ -1,0 +1,9 @@
+puts "marina".object_id
+puts "marina".object_id
+puts "marina".object_id
+puts "marina".object_id
+puts '-----------------'
+puts :marina.object_id
+puts :marina.object_id
+puts :marina.object_id
+puts :marina.object_id
